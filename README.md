@@ -26,4 +26,4 @@ Each script in the `scripts/` directory corresponds to one step of the workflow:
 - `04_LRP1_analysis.R` : LRP1 expression and visualization
 
 ## Contact
-For questions, please contact: [Your Name]
+For questions, please contact: [Makoto Yamamoto]
